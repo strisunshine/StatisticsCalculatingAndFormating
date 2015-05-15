@@ -1,0 +1,50 @@
+Maine, New Hampshire
+New Hampshire, Maine, Vermont, Massachusetts
+Vermont, New Hampshire, New York, Massachusetts
+Massachusetts, Vermont, New Hampshire, Rhode Island, Connecticut, New York 
+Rhode Island, Massachusetts, Connecticut
+Connecticut, Massachusetts, Rhode Island, New York
+New York, Vermont, Connecticut, Massachusetts, Pennsylvania, New Jersey
+Pennsylvania, New York, New Jersey, Delaware, Maryland, Virginia, Ohio
+New Jersey, Pennsylvania, Delaware, New York
+Delaware, Pennsylvania, New Jersey, Maryland
+Maryland, Delaware, Pennsylvania, West Virginia, Virginia
+Virginia, Maryland, North Carolina, West Virginia, Kentucky, Tennessee
+West Virginia, Maryland, Virginia, Kentucky, Ohio, Pennsylvania
+Kentucky, West Virginia, Missouri, Tennessee, Virginia, Ohio, Indiana, Illinois
+Missouri, Kansas, Oklahoma, Arkansas, Tennessee, Kentucky, Illinois, Iowa, Nebraska
+Kansas, Oklahoma, Missouri, Arkansas, Nebraska, Colorado
+Oklahoma, Missouri, Kansas, Texas, Arkansas, New Mexico, Colorado
+New Mexico, Oklahoma, Texas, Utah, Arizona
+Texas, New Mexico, Oklahoma, Louisiana
+Arizona, New Mexico, Utah, Nevada, California
+Utah, Arizona, Nevada, New Mexico, Wyoming, Idaho, Colorado
+Nevada, Utah, Arizona, California, Idaho, Oregon
+California, Arizona, Nevada, Oregon, Hawaii, Alaska
+Hawaii, California, Alaska, Oregon, Washington
+Alaska, Hawaii, California, Oregon, Washington 
+Washington, Oregon, Hawaii, Alaska, Idaho
+Idaho, Washington, Oregon, Nevada, Utah, Wyoming, Montana 
+Montana, Idaho, Wyoming, North Dakota, South Dakota 
+North Dakota, Montana, South Dakota, Minnesota 
+South Dakota, North Dakota, Montana, Minnesota, Wyoming, Nebraska, Iowa
+Minnesota, North Dakota, Iowa, South Dakota, Wisconsin
+Wisconsin, Minnesota, Michigan, Illinois, Iowa
+Michigan, Wisconsin, Ohio, Indiana
+Ohio, Pennsylvania, West Virginia, Indiana, Michigan, Kentucky
+Indiana, Michigan, Ohio, Kentucky, Illinois
+Illinois, Indiana, Wisconsin, Iowa, Missouri, Kentucky 
+Iowa, Wisconsin, Minnesota, South Dakota, Nebraska, Illinois, Missouri 
+Nebraska, Iowa, South Dakota, Wyoming, Colorado, Kansas, Missouri 
+Colorado, Wyoming, Nebraska, Utah, Oklahoma, Kansas
+Louisiana, Arkansas, Texas, Mississippi
+Mississippi, Louisiana, Arkansas, Tennessee, Alabama
+Alabama, Mississippi, Tennessee, Georgia, Florida
+Florida, Alabama, Georgia 
+Georgia, Alabama, Florida, South Carolina, North Carolina, Tennessee
+South Carolina, Georgia, North Carolina
+North Carolina, Virginia, South Carolina, Tennessee, Georgia 
+Wyoming, Colorado, Utah, Nebraska, South Dakota, Montana, Idaho
+Arkansas, Tennessee, Mississippi, Louisiana, Missouri, Kansas, Oklahoma 
+Oregon, Washington, Idaho, Nevada, California, Hawaii, Alaska 
+Tennessee, Kentucky, Missouri, Arkansas, Virginia, North Carolina, Georgia, Alabama, Mississippi 

@@ -1,0 +1,51 @@
+State, Capital, Population, Area, House seats
+Alabama, Montgomery, 4822023, 52420, 7
+Alaska, Juneau, 731449, 665384, 1
+Arizona, Phoenix, 6553255, 113990, 9
+Arkansas, Little Rock, 2949131, 53179, 4
+California, Sacramento, 38041430, 163695, 53
+Colorado, Denver, 5187582, 104094, 7
+Connecticut, Hartford, 3590347, 5543, 5
+Delaware, Dover, 917092, 2489, 1
+Florida, Tallahassee, 19317568, 65758, 27
+Georgia, Atlanta, 9919945, 59425, 14
+Hawaii, Honolulu, 1392313, 10932, 2
+Idaho, Boise, 1595728, 83569, 2
+Illinois, Springfield, 12875255, 57914, 18
+Indiana, Indianapolis, 6537334, 36420, 9
+Iowa, Des Moines, 3078186, 56273, 4
+Kansas, Topeka, 2885905, 82278, 4
+Kentucky, Frankfort, 4380415, 40408, 6
+Louisiana, Baton Rouge, 4601893, 52378, 6
+Maine, Augusta, 1329192, 35380, 2
+Maryland, Annapolis, 5884563, 12406, 8
+Massachusetts, Boston, 6646144, 10554, 9
+Michigan, Lansing, 9883360, 96714, 14
+Minnesota, St. Paul, 5379139, 86936, 8
+Mississippi, Jackson, 2984926, 48432, 4
+Missouri, Jefferson City, 6021988, 69707, 8
+Montana, Helena, 1005141, 147040, 1
+Nebraska, Lincoln, 1855525, 77348, 3
+Nevada, Carson City, 2758931, 11572, 4
+New Hampshire, Concord, 1320718, 9349, 2
+New Jersey, Trenton, 8864590, 8723, 12
+New Mexico, Santa Fe, 2085538, 121590, 3
+New York, Albany, 19570261, 54555, 27
+North Carolina, Raleigh, 9752073, 53819, 13
+North Dakota, Bismarck, 799628, 70698, 1
+Ohio, Columbus, 11544225, 44826, 16
+Oklahoma, Oklahoma City, 3814820, 69899, 5
+Oregon, Salem, 3899353, 98379, 5
+Pennsylvania, Harrisburg, 12763536, 46054, 18
+Rhode Island, Providence, 1050292, 1545, 2
+South Carolina, Columbia, 4723723, 32020, 7
+South Dakota, Pierre, 833354, 77116, 1
+Tennessee, Nashville, 6456243, 42144, 9
+Texas, Austin, 26059203, 268596, 36
+Utah, Salt Lake City, 2855287, 84897, 4
+Vermont, Montpelier, 626011, 9616, 1
+Virginia, Richmond, 8185867, 42755, 11
+Washington, Olympia, 6897012, 71298, 10
+West Virginia, Charleston, 1855413, 24230, 3
+Wisconsin, Madison, 5726398, 65496, 8
+Wyoming, Cheyenne, 576412, 97813, 1
